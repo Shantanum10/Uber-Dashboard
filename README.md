@@ -74,3 +74,8 @@ The project helps identify key business insights such as high-performing areas, 
 🎛️ Dynamic Hide/Show Filter Panel for space optimization
 
 🔍 Multiple filters for deeper analysis
+
+6. Overview/ Demo
+- ![ALT text](https://github.com/Shantanum10/uber-Dashboard/blob/main/Uber Dashboard.png)
+
+- ![ALT text](https://github.com/Shantanum10/Spotify-Dashboard/blob/main/Spotify_Dashboard.png)
