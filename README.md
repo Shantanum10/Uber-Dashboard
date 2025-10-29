@@ -29,44 +29,48 @@ The project helps identify key business insights such as high-performing areas, 
 
 5. Features / Highlights
 
-- Overview Page:
+🧭 Overview Page
 
-KPIs: Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance
+📈 KPIs: Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance
 
-Monthly & Quarterly trend analysis for bookings and revenue
+📅 Monthly & Quarterly trend analysis (Bookings & Revenue)
 
-Revenue by Vehicle Type
+🚗 Revenue by Vehicle Type
 
-Top Pickup & Drop Locations
+📍 Top Pickup & Drop Locations
 
-Average Rider & Driver Ratings
+⭐ Average Rider & Driver Ratings
 
-- Vehicle Page:
+🚘 Vehicle Page
 
-Detailed vehicle-wise performance (Bookings, Revenue, Contribution)
+- Detailed performance by vehicle
 
-- Revenue Page:
+Booking count, revenue, and contribution analysis
 
-Breakdown by Customer, Vehicle, and Payment Method
+💰 Revenue Page
 
-Monthly and Quarterly Revenue Analysis
+- Revenue by Customer, Vehicle & Payment Method
 
-- Rider Page:
+- Monthly and Quarterly breakdowns
 
-Cancelled Rides by Reasons
+👥 Rider Page
 
-Rider segmentation: First-time, Return, and Regular Riders
+- Cancelled rides by reason
 
-- Location Page:
+- Payment method insights
 
-Monthly Total Distance
+- Rider segmentation: First-time, Return & Regular Riders
 
-Busy Time Slots & High-Demand Areas
+📍 Location Page
 
-Vehicle-wise Distance Insights
+- Monthly total distance
 
-- UX Enhancements:
+- Busy areas & time slots
 
-Dynamic hide/show filter panel for better screen utilization
+- Vehicle-wise distance insights
 
-Multiple filters for interactive exploration
+🧩 UI / UX Enhancements
+
+🎛️ Dynamic Hide/Show Filter Panel for space optimization
+
+🔍 Multiple filters for deeper analysis
