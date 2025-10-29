@@ -76,6 +76,6 @@ The project helps identify key business insights such as high-performing areas, 
 🔍 Multiple filters for deeper analysis
 
 6. Overview/ Demo
-- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png))
+- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png)
 
 - ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Overview.png)
