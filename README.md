@@ -1,6 +1,6 @@
 # Uber-Dashboard
 
-# # Recommended Structure and Orders
+# Recommended Structure and Orders
 
 1. Project Title / Headline
 
